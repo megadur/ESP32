@@ -51,7 +51,12 @@
                 "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/um",
                 "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/ucrt",
                 "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/shared",
-                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/winrt"
+                "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/winrt",
+                "F:/DataProjects/ESP32/expressif/esp32/tools/sdk/include/esp32",
+                "F:/DataProjects/ESP32/expressif/esp32/tools/sdk/include/driver",
+                "F:/DataProjects/ESP32/expressif/esp32/cores\\esp32",
+                "F:/DataProjects/ESP32/libraries",
+                "C:\\Users\\DonTillo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266"
             ],
             "defines": [
                 "_DEBUG",
@@ -67,9 +72,13 @@
                     "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/um",
                     "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/ucrt",
                     "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/shared",
-                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/winrt"
+                    "C:/Program Files (x86)/Windows Kits/10/Include/10.0.16299.0/winrt",
+                    "F:\\DataProjects\\Arduino\\hardware\\expressif\\esp32\\cores\\esp32",
+                    "F:/DataProjects/ESP32/expressif/esp32/cores\\esp32",
+                "F:/DataProjects/ESP32/libraries",
+                    "C:\\Users\\DonTillo\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266"
                 ],
-                "limitSymbolsToIncludedHeaders": true,
+                "limitSymbolsToIncludedHeaders": false,
                 "databaseFilename": ""
             },
             "cStandard": "c11",
